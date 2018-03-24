@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Z luchando","characterIndex":0,"characterName":"nosotros","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"actores nosotros","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zarodin","nickname":"Z","note":"","profile":""},
+{"id":2,"battlerName":"nianki","characterIndex":1,"characterName":"nosotros","classId":1,"equips":[1,0,2,3,4],"faceIndex":1,"faceName":"actores nosotros","traits":[],"initialLevel":1,"maxLevel":99,"name":"Silvia","nickname":"Silvi","note":"","profile":""}
+]
